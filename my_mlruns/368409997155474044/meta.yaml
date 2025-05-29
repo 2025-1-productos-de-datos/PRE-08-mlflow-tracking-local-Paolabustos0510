@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Paola Andrea\Documentos\ProductoDatos\2025-1-productos-de-datos\PRE-08-mlflow-tracking-local-Paolabustos0510\my_mlruns/368409997155474044
+creation_time: 1748301426039
+experiment_id: '368409997155474044'
+last_update_time: 1748301426039
+lifecycle_stage: active
+name: wine_quality_experiment

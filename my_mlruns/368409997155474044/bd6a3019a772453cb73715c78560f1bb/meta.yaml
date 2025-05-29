@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Paola Andrea\Documentos\ProductoDatos\2025-1-productos-de-datos\PRE-08-mlflow-tracking-local-Paolabustos0510\my_mlruns/368409997155474044/bd6a3019a772453cb73715c78560f1bb/artifacts
+end_time: 1748302721957
+entry_point_name: ''
+experiment_id: '368409997155474044'
+lifecycle_stage: active
+run_id: bd6a3019a772453cb73715c78560f1bb
+run_name: elasticnet_fd47f598
+run_uuid: bd6a3019a772453cb73715c78560f1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748302721872
+status: 3
+tags: []
+user_id: Paola Andrea
